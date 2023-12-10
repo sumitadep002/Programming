@@ -1,0 +1,43 @@
+Authorized Signatory:                                                   Total:_ _ _ _
+                                                             Purchase Order: 1
+Requisition: 1
+ 									                                Issue Date: Mon Oct 30 16 6 43 123
+
+Supplier: SKS Inc
+Delivery Date: 11/11/2023
+--------------------------------------------------------------------------------------------------------------------
+					**Line Items**
+--------------------------------------------------------------------------------------------------------------------
+Item Code				Quantity			Price			Total
+_________				________			_____			_____
+
+10				10				0.01            5
+Standard Terms and Conditions
+1. PO shoulbe be acknowledge withing 7 days of date of issue
+2. PO will be null and void if goods are not delivered by delivery date.
+3. Defective goods will be returned back to the supplier
+4. Invoice can only  be raised after 20 days of date of goods receipt
+5. Damages during transit (if any) will be done by the supplier
+
+Authorized Signatory:                                                   Total:_ _ _ _
+                                                             Purchase Order: 1
+Requisition: 2
+ 									                                Issue Date: Mon Oct 30 16 7 20 123
+
+Supplier: KC Spare Parts Ltd.
+Delivery Date: 12/11/2023
+--------------------------------------------------------------------------------------------------------------------
+					**Line Items**
+--------------------------------------------------------------------------------------------------------------------
+Item Code				Quantity			Price			Total
+_________				________			_____			_____
+
+15				10				4            870
+Standard Terms and Conditions
+1. PO shoulbe be acknowledge withing 7 days of date of issue
+2. PO will be null and void if goods are not delivered by delivery date.
+3. Defective goods will be returned back to the supplier
+4. Invoice can only  be raised after 20 days of date of goods receipt
+5. Damages during transit (if any) will be done by the supplier
+
+Authorized Signatory:                                                   Total:_ _ _ _

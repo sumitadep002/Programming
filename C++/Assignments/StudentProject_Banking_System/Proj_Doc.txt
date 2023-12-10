@@ -1,0 +1,9 @@
+maps:
+
+-> containers used for make a pair
+-> example: map<long,any_class>Map_Container
+	    Here long is key which is long type and any_class is the value
+	    Map_Contains->first will return the key and Map_Contains->second will return the value 
+->Map_Cotnainer.find(key): return the container with associated key
+
+->

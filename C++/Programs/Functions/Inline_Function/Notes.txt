@@ -1,0 +1,29 @@
+1)What is Inline Function?
+->inline is keyword and function defined with that keyword called inline function.
+->C++ provides inline functions to reduce the function call overhead.
+->Wherever function call is made the whole code of that function is substituted over there.
+->This substitution performed during compile time.
+->It is useful if function definition is small.
+
+2)Syntax:
+
+inline return-type function-name(parameters)
+{
+    // function code
+}  
+
+3)Situations where it may not work: 
+
+->If a function contains a loop. (for, while and do-while) 
+->If a function contains static variables. 
+->If a function is recursive. 
+->If a function return type is other than void, and the return statement doesn’t exist in a function body. 
+->If a function contains a switch or goto statement.
+
+4)Advantages:
+->Function call overhead doesn’t occur. 
+->It also saves the overhead of push/pop variables on the stack when a function is called. 
+->It also saves the overhead of a return call from a function. 
+->When you inline a function, you may enable the compiler to perform context-specific optimization on the body of the function. Such optimizations are not possible for normal function calls. Other optimizations can be obtained by considering the flows of the calling context and the called context. 
+->An inline function may be useful (if it is small) for embedded systems because inline can yield less code than the function called preamble and return. 
+

@@ -1,0 +1,15 @@
+Some important things to be noted:
+
+what is static local and global variable
+
+extern: by nature global variable is extern
+
+register: research on that
+
+Rules of C standard
+
+Different standard
+
+Header Guard
+
+Prototyping
